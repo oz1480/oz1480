@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @oz1480
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning Java full stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? ask me
-..
-<!---
-oz1480/oz1480 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# HI! I`m Oz Shemesh ☺
+
+## Software Developer 
+
+### My Skills:
+   ✅ Java | C# | C++
+  
+   ✅ OOP
+  
+   ✅ Spring framework
+  
+   ✅ Design Patterns
+  
+   ✅ REST API
+  
+   ✅ My SQL
+  
+   ✅ Unreal engine
+  
+### You can reach me at:
+   linkedin: https://www.linkedin.com/in/oz-shemesh/
+   
+   email: ozshemesh1@gmail.com
